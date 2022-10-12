@@ -11,7 +11,7 @@ main:
     url: '#publications'
     weight: 50
   - name: Ongoing
-    url: '#project'
+    url: '#projects'
     weight: 52
   - name: CV
     url: 'uploads/cv.pdf'

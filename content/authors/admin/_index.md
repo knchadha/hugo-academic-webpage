@@ -24,8 +24,8 @@ bio: My research interests include differential privacy, machine learning and st
 interests:
   - Differential Privacy
   - Machine Learning
-  - Stochastic Optimization
-  - Statistics
+  - User heterogeneity
+  - Social data in ML
 
 # Education to show in About widget
 education:
@@ -69,7 +69,7 @@ email: ''
 highlight_name: true
 ---
 
-I am a fourth year PhD Candidate at Stanford University, advised by [Prof. John Duchi](https://web.stanford.edu/~jduchi/). My research interests lie broadly at the intersection of optimization and statistics. I am currently working on problems in differential privacy and federated learning.
+I am a fourth year Electrical Engineering PhD student at Stanford University, advised by [Prof. John Duchi](https://web.stanford.edu/~jduchi/). In my research, I use techniques from statistics and optimization to study different Machine Learning paradigms and give principled solutions to the problems that arise. I am currently working on problems in differential privacy and federated learning. I am also interested in studying the nuances in learning problems when the data sources are social in nature, and in modeling the impact deployed ML systems have on shaping individual choices.
 
 Before joining Stanford, I did my bachelor’s and master’s at IIT Bombay. During my time there, I worked on Game Theory, Restless Bandit Algorithms and MCMC on Graphs with [Prof. Vivek Borkar](https://www.ee.iitb.ac.in/web/people/faculty/home/borkar), [Prof. Ankur Kulkarni](https://www.sc.iitb.ac.in/~ankur/) and [Prof. Jayakrishnan Nair](https://www.ee.iitb.ac.in/~jayakrishnan.nair/).
 
